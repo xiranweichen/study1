@@ -1,0 +1,1 @@
+<h1>通过nginx反向代理，用www.lizhenhong.com访问spring-boot首页</h1>
